@@ -40,7 +40,7 @@ int main()
 
 ## OUTPUT:
 
-![Screenshot 2025-04-29 220234](https://github.com/user-attachments/assets/c5adbc80-b948-4fe2-a546-4efac43bbb41)
+![Screenshot 2025-04-29 220951](https://github.com/user-attachments/assets/f4679b42-0fed-4c0a-b90c-9f2f86c7deae)
 
 ## RESULT:
 Thus the program to print even numbers ranging from M to N (including M and N values) has been executed successfully
@@ -86,7 +86,7 @@ int main()
 
 ## OUTPUT:
 
-![Screenshot 2025-04-29 220951](https://github.com/user-attachments/assets/f4679b42-0fed-4c0a-b90c-9f2f86c7deae)
+![Screenshot 2025-04-29 220234](https://github.com/user-attachments/assets/c5adbc80-b948-4fe2-a546-4efac43bbb41)
 
 ## RESULT:
 
